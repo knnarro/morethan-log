@@ -4,7 +4,7 @@ const CONFIG = {
     name: "나로",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Backend Engineer",
-    bio: "생산성에 관심이 많은 조금 게으른 백엔드 개발자입니다.",
+    bio: "생산성에 관심이 많은\n조금 게으른 백엔드 개발자입니다.",
     email: "knnarro@gmail.com",
     linkedin: "https://www.linkedin.com/in/%EB%82%98%EB%9E%98-%EA%B0%95-7aa99a249",
     github: "https://github.com/knnarro",
@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "🤔 되긴 되는데 이유를 모르겠어!",
+    title: "되긴 되는데 이유를 모르겠어!",
     description: "여러 시행착오를 통해 새삼스럽게 알게된 것을 기록합니다.",
   },
 
