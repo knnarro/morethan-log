@@ -73,9 +73,8 @@ const StyledWrapper = styled.div`
       }
       .bio {
         margin-bottom: 0.5rem;
-        font-size: 0.875rem;
+        font-size: 0.75rem;
         line-height: 1.25rem;
-        word-break: keep-all;
       }
     }
   }
