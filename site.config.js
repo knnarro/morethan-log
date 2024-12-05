@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "디버깅 중...",
-    description: "모름을 배움으로 고쳐갑니다.",
+    description: "나로의 개발 블로그입니다.",
   },
 
   // CONFIG configration (required)
