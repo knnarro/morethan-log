@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://morethan-log.vercel.app</loc><lastmod>2024-01-27T08:03:15.585Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/resume</loc><lastmod>2024-01-27T08:03:15.585Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/multi-thread-and-process-of-python</loc><lastmod>2024-01-27T08:03:15.585Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/goodbye-my-first-product</loc><lastmod>2024-01-27T08:03:15.585Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/about</loc><lastmod>2024-01-27T08:03:15.585Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://morethan-log.vercel.app</loc><lastmod>2024-12-05T12:14:17.996Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://morethan-log.vercel.app/decorator</loc><lastmod>2024-12-05T12:14:17.996Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://morethan-log.vercel.app/python-indexing</loc><lastmod>2024-12-05T12:14:17.996Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://morethan-log.vercel.app/open-source</loc><lastmod>2024-12-05T12:14:17.996Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://morethan-log.vercel.app/resume</loc><lastmod>2024-12-05T12:14:17.996Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://morethan-log.vercel.app/error-handling</loc><lastmod>2024-12-05T12:14:17.996Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://morethan-log.vercel.app/about</loc><lastmod>2024-12-05T12:14:17.996Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://morethan-log.vercel.app/method-type-of-python</loc><lastmod>2024-12-05T12:14:17.996Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://morethan-log.vercel.app/migrate-django-to-rds</loc><lastmod>2024-12-05T12:14:17.996Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://morethan-log.vercel.app/eratosthenes</loc><lastmod>2024-12-05T12:14:17.997Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://morethan-log.vercel.app/pep</loc><lastmod>2024-12-05T12:14:17.997Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://morethan-log.vercel.app/multi-thread-and-process-of-python</loc><lastmod>2024-12-05T12:14:17.997Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://morethan-log.vercel.app/goodbye-my-first-product</loc><lastmod>2024-12-05T12:14:17.997Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 </urlset>

@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "모른다는 것을 알기",
-    description: "모르는 것을 수집하고 있습니다.",
+    title: "디버깅 중...",
+    description: "모름을 배움으로 고쳐갑니다.",
   },
 
   // CONFIG configration (required)
